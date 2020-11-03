@@ -40,7 +40,7 @@ body{
 .color-panel {
     position: absolute; 
     top: 0px; /* прижимаем палитру к верхней части страницы  */
-    right: 350px; /* создаем внешний отступ справа */
+    right: 30px; /* создаем внешний отступ справа */
     background-color: #fff; 
     height: 60px;
     padding: 15px 5px 5px 5px; /* задаем внутренние отступы */
