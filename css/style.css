@@ -1,0 +1,36 @@
+
+h1 {
+ color: blue;
+ background-color: yellow;
+ border: 1px solid black;
+}
+
+h4 {
+	
+ color: #1d610c;
+ font-family: "Ubuntu", sans-serif;
+}
+
+p {
+ color: #1d610c; 
+ font-family: "Ubuntu", sans-serif;
+}
+
+body{
+	background: #ffd21c url(img/1-11.png) repeat-x center top;
+	
+            width: 90%;
+            padding: 0;
+            margin: 0;
+}
+
+.leftCol {
+	margin: 0 0 20px 0;
+	float: left;
+	margin-right: 10px;
+	width: 465px;
+	background-color: #ffedba;
+	border-radius: 3px;
+	
+}
+
