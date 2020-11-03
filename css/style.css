@@ -33,22 +33,27 @@ body{
 	border-radius: 3px;
 	
 }
-/* Задаем цвет фона по умолчанию */
+
+
 body{
     background-color: #b2ebf2;
 }
+ 
+
 .color-panel {
     position: absolute; 
-    top: 0px; /* прижимаем палитру к верхней части страницы  */
-    right: 30px; /* создаем внешний отступ справа */
+    top: 0px; 
+    right: 30px; 
     background-color: #fff; 
     height: 60px;
-    padding: 15px 5px 5px 5px; /* задаем внутренние отступы */
-    -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35); /* добавим тень*/
+    padding: 15px 5px 5px 5px; 
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35); 
     -moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35);
     box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35);
-    border-radius: 0px 0px 30px 30px; /* закруглим края панели */
+    border-radius: 0px 0px 30px 30px; 
 }
+ 
+
 .color-panel div {
     height: 50px;
     width: 50px;
@@ -56,6 +61,8 @@ body{
     float:left;
     margin: 5px;    
 }
+ 
+
 #blue{
     background-color: #b3e5fc;
 }
